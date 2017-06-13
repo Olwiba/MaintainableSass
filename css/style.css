@@ -1,0 +1,122 @@
+.font-size-8px {
+  font-size: 8px; }
+
+.font-size-10px {
+  font-size: 10px; }
+
+.font-size-12px {
+  font-size: 12px; }
+
+.font-size-14px {
+  font-size: 14px; }
+
+.font-size-18px {
+  font-size: 18px; }
+
+.font-size-24px {
+  font-size: 24px; }
+
+.grid-column {
+  position: relative;
+  float: left;
+  width: 100%; }
+
+.grid-column-0 {
+  width: 0%; }
+
+.grid-column-offest-0 {
+  margin-left: 0%; }
+
+.grid-column-1 {
+  width: 8.33333%; }
+
+.grid-column-offest-1 {
+  margin-left: 8.33333%; }
+
+.grid-column-2 {
+  width: 16.66667%; }
+
+.grid-column-offest-2 {
+  margin-left: 16.66667%; }
+
+.grid-column-3 {
+  width: 25%; }
+
+.grid-column-offest-3 {
+  margin-left: 25%; }
+
+.grid-column-4 {
+  width: 33.33333%; }
+
+.grid-column-offest-4 {
+  margin-left: 33.33333%; }
+
+.grid-column-5 {
+  width: 41.66667%; }
+
+.grid-column-offest-5 {
+  margin-left: 41.66667%; }
+
+.grid-column-6 {
+  width: 50%; }
+
+.grid-column-offest-6 {
+  margin-left: 50%; }
+
+.grid-column-7 {
+  width: 58.33333%; }
+
+.grid-column-offest-7 {
+  margin-left: 58.33333%; }
+
+.grid-column-8 {
+  width: 66.66667%; }
+
+.grid-column-offest-8 {
+  margin-left: 66.66667%; }
+
+.grid-column-9 {
+  width: 75%; }
+
+.grid-column-offest-9 {
+  margin-left: 75%; }
+
+.grid-column-10 {
+  width: 83.33333%; }
+
+.grid-column-offest-10 {
+  margin-left: 83.33333%; }
+
+.grid-column-11 {
+  width: 91.66667%; }
+
+.grid-column-offest-11 {
+  margin-left: 91.66667%; }
+
+.grid-column-12 {
+  width: 100%; }
+
+.grid-column-offest-12 {
+  margin-left: 100%; }
+
+.navigation {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 50px;
+  color: #FFFFFF;
+  background: #424242;
+  box-shadow: 0 0 5px rgba(66, 66, 66, 0.8);
+  text-align: center;
+  line-height: 50px; }
+  .navigation ul {
+    display: inline-flex;
+    margin: 0; }
+    .navigation ul li {
+      list-style: none;
+      padding: 0 50px;
+      height: 100%; }
+      .navigation ul li:hover {
+        background: rgba(59, 136, 173, 0.5); }
+
+/*# sourceMappingURL=style.css.map */

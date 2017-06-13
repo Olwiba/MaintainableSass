@@ -1,0 +1,23 @@
+$grid-columns: 12; // Will be a 12 column grid
+
+.grid-column { // Default grid-column styles
+  position: relative;
+  float: left;
+  width: 100%;
+}
+
+@mixin grid-classes($column) {
+  $width: (100% / $grid-columns) * $column;
+
+  .grid-column-#{$column} {
+    width: $width;
+  }
+
+  .grid-column-offest-#{$column} {
+    margin-left: $width;
+  }
+}
+
+@for $column from 0 through $grid-columns {
+  @include grid-classes($column);
+}
