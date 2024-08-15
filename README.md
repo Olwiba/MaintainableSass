@@ -1,5 +1,7 @@
-# Writing more maintainable styles with Sass - A first look
+# Writing maintainable styles with Sass 💅
 
-This is the example code for my blog post on Writing more maintainable styles with Sass - A first look.
+This repository contains the example code for my blog post on [Writing maintainable styles with Sass - A first look](https://olwiba.com/posts/2017/writing-maintainable-styles).
 
-You can check out the blog post [here](https://raygun.com/blog/sass-tutorial-maintainable-code/).
+## Technologies
+- SASS
+- Grunt
